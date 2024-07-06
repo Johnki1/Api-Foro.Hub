@@ -148,7 +148,7 @@ La API utiliza JSON Web Tokens (JWT) para la autenticación y autorización de l
 
 La documentación de la API está generada con Swagger. Puedes acceder a la documentación interactiva visitando la URL `/swagger-ui.html` una vez que la aplicación esté en ejecución.
 
-## Demostracion
+## Capturas De Pantalla
 
 A continuación se muestran capturas de pantalla de los endpoints configurados en Insomnia para facilitar la interacción con la API.
 
