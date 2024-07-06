@@ -152,8 +152,19 @@ La documentación de la API está generada con Swagger. Puedes acceder a la docu
 
 A continuación se muestran capturas de pantalla de los endpoints configurados en Insomnia para facilitar la interacción con la API.
 
-![Captura de Pantalla 1](path/to/insomnia/screenshot1.png)
+![ff73dc9f-d7ce-46d0-b045-94d04272364d](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/61c6e3b8-d5d5-42f9-a011-3985fa2fdcd7)
 
-![Captura de Pantalla 2](path/to/insomnia/screenshot2.png)
+![368aacab-3203-418f-a4bd-edca12b0baf6](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/61ce0d7b-1cb0-4467-bb62-a53686291e84)
+
+![d09c2d15-6b4b-45da-84b0-d075fcc9cd31](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/06cc5549-fb9f-4ba3-bb05-d478cde803a2)
+
+![image](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/475fbc04-500a-4d9b-97a7-0a0929d59fd2)
+
+![image](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/a1e32274-d177-428f-84a9-8319910073fb)
+
+![image](https://github.com/Johnki1/Api-Foro.Hub/assets/157264782/47a3fab5-3b38-43c2-be95-99cd43b07696)
+
+
+
 
 ---
